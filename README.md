@@ -1,23 +1,17 @@
-# Nextra Docs Template 
+# Welcome to Leo Learnings!
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+Unlock the Power of Leo Programming Language and Zero Knowledge Proofs with our comprehensive educational resources. Whether you're new to Leo or a seasoned pro, we have something for everyone. Explore our range of learning materials, from written articles to video tutorials, and discover everything you need to know about these powerful tools.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+# Local environment setup
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+1. Install Node modules
 
-## Quick Start
+```
+yarn
+```
 
-Click the button to clone this repository and deploy it on Vercel:
+2. Start development server
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+```
+yarn dev
+```
